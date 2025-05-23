@@ -16,7 +16,7 @@ const PersonalDetails = () => {
     {
       icon: <Briefcase />,
       label: "Experience",
-      value: "6 months"
+      value: "1 year 6 months"
     },
     {
       icon: <Award />,
@@ -31,7 +31,7 @@ const PersonalDetails = () => {
     {
       icon: <Heart />,
       label: "Interests",
-      value: " Design and features"
+      value: "Web Devlopement"
     }
   ];
 
